@@ -2,7 +2,6 @@
 <section>
 <hr>
     <h2 align='center'>Visita na Feira</h2>
-    <hr/>
     <h3>Desafio</h3>
     <p>
         Você está na feira com a sua sacola e parou em uma banca. O feirante lhe entregou pimentões amarelos e vermelhos. Agora iremos somar os pimentões amarelos e vermelhos para descobrir o total de pimentões na sacola.  Você receberá 2 inteiros que devem ser lidos e armazenados nas variáveis<strong> A (pimentões amarelos)</strong> e <strong>B (pimentões vermelhos)</strong>. Faça a soma de <strong>A</strong> e <strong>B</strong> atribuindo o seu resultado na variável <strong>X (total de pimentões)</strong>. Apresente <strong>X</strong> como descrito na mensagem de exemplo abaixo. Não apresente outra mensagem além da mensagem especificada.
@@ -37,8 +36,7 @@
 
 <!-- SEIS NUMEROS IMPARES -->
 <section>
-    <h2 style='text-align:center'>Seis Números Ímpares</h2>
-    <hr/>
+    <h2 align='center'>Seis Números Ímpares</h2>
     <h3>Desafio</h3>
     <p>
       Leia um valor inteiro <strong>X</strong>. Em seguida apresente os 6 valores ímpares consecutivos a partir de <strong>X</strong>, um valor por linha, inclusive o <strong>X</strong> se for o caso.
@@ -85,8 +83,7 @@
 
 <!-- QUANTIDADE DE NÚMEROS POSITIVOS -->
 <section>
-    <h2 style='text-align:center'>Quantidade de Números Positivos</h2>
-    <hr/>
+    <h2 align='center'>Quantidade de Números Positivos</h2>
     <h3>Desafio</h3>
     <p>
       Crie um programa que leia 6 valores, os quais poderão ser negativos e/ou positivos. Em seguida, apresente a quantidade de valores positivos digitados.
@@ -128,5 +125,3 @@
         </tr>
     </table>
 </section>
-<hr/>
-<hr/>
